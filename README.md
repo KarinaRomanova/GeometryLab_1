@@ -1,2 +1,2 @@
 # GeometryLab_1
-![](https://github.com/KarinaRomanova/GeometryLab_1/blob/main/ReadmeGif.gif)
+![](https://github.com/KarinaRomanova/GeometryLab_1/blob/main/GIF.gif)
